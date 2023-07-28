@@ -11,7 +11,7 @@ To start using this project the following things need to be done:
 - Create a DeepL Account
 - Activate the free api for your account
 - Copy this project to your locale machine
-- Insert your API Key [HERE] (https://github.com/progrunt/localizable/blob/main/DeepL/DeepLService.swift#L44)
+- Insert your API Key [HERE](https://github.com/progrunt/localizable/blob/main/DeepL/DeepLService.swift#L44)
 - Start the project
 
 ## Usage
