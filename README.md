@@ -33,4 +33,4 @@ If you like this tool, I would appreciate, if you could give this repository a s
 My latest project:
 
 <p align="center"><img src="https://github.com/progrunt/localizable/blob/main/Github%20Example%20Images/Muscles_Logo.png" width="250" height="250"></p><br>
-![Appstore Link](https://apps.apple.com/us/app/muscles-workout-meal-diary/id6449750375 "Go to Apple Appstore!")
+[Go to Apple Appstore!](https://apps.apple.com/us/app/muscles-workout-meal-diary/id6449750375)
