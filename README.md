@@ -16,3 +16,10 @@ To start using this project the following things need to be done:
 
 ## Usage
 
+- Add your strings from Localizable.strings in the left text box
+- Choose the language of your main Localizable.string
+- Choose the target language
+- Optionally choose the preferred translation text style (For me default is good ⭐️)
+- Click on translate and await the response!
+
+[logo]: https://github.com/progrunt/localizable/blob/main/Github%20Example%20Images/Localizer%20Tool.png "Localizer"
