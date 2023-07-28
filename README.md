@@ -32,5 +32,5 @@ But do NOT use a modified version of this tool to monetize this modified version
 If you like this tool, I would appreciate, if you could give this repository a star ⭐️
 My latest project:
 
-[<p align="center"><img src="https://github.com/progrunt/localizable/blob/main/Github%20Example%20Images/Muscles_Logo.png" width="250" height="250"></p>](https://apps.apple.com/us/app/muscles-workout-meal-diary/id6449750375)
+![<p align="center"><img src="https://github.com/progrunt/localizable/blob/main/Github%20Example%20Images/Muscles_Logo.png" width="250" height="250"></p>](https://apps.apple.com/us/app/muscles-workout-meal-diary/id6449750375 "")
 
