@@ -23,3 +23,14 @@ To start using this project the following things need to be done:
 - Click on translate and await the response!
 
 ![alt text](https://github.com/progrunt/localizable/blob/main/Github%20Example%20Images/Localizer%20Tool.png "")
+
+Feel free to use this tool for your app localization.
+But do NOT use a modified version of this tool to monetize this modified version!
+
+------------------------------
+
+If you like this tool, I would appreciate, if you could give this repository a star ⭐️
+Other projects of mine:
+
+[<img src="https://github.com/progrunt/localizable/blob/main/Github%20Example%20Images/Muscles_Logo.png">](https://apps.apple.com/us/app/muscles-workout-meal-diary/id6449750375)
+
