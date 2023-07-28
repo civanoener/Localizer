@@ -22,4 +22,4 @@ To start using this project the following things need to be done:
 - Optionally choose the preferred translation text style (For me default is good ⭐️)
 - Click on translate and await the response!
 
-[logo]: https://github.com/progrunt/localizable/blob/main/Github%20Example%20Images/Localizer%20Tool.png "Localizer"
+![alt text](https://github.com/progrunt/localizable/blob/main/Github%20Example%20Images/Localizer%20Tool.png "")
